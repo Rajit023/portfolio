@@ -29,6 +29,7 @@ a {
 /* nav and hero section */
 .hero {
 	background: url(img/bbbg.jpg);
+    width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 50vh;
