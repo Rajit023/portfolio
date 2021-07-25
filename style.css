@@ -60,15 +60,13 @@ nav {
 }
 
 .profile-img{
-            opacity: 0.8;
+            opacity: 0.9;
 }
 h1{
     color:rgb(215, 223, 202);
 }
 
-.info p{
-    color:white;
-}
+
 h1 span{
     color:greenyellow;
 }
@@ -87,6 +85,10 @@ h1 span{
 	justify-content: space-between;
 }
 
+.hero-contents p{
+    color: white;
+}
+
 h1 {
 	margin-top: 5rem;
 }
@@ -94,9 +96,7 @@ h2 {
 	font-size: 3rem;
 }
 
-.info p {
-	font-size: 1.5rem;
-}
+
 
 /* skills section */
 .section-title {
