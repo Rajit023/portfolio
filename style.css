@@ -24,7 +24,7 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-	color: var(--main-color2);
+	color:greenyellow;
 }
 
 .header {
@@ -34,6 +34,10 @@ a.nav-link:hover {
   background-size:cover;
 }
 
+h1 span{
+  color: yellowgreen;
+
+}
 /* skills section` */
 
 .skills {
